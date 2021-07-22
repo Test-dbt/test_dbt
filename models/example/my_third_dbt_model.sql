@@ -1,3 +1,3 @@
 select *
-from {{ ref('my_second_dbt_model') }}
+from {{ ref('my_first_dbt_model') }}
 where id = 1
