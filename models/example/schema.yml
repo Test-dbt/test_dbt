@@ -3,7 +3,7 @@ version: 2
 
 models:
     - name: my_first_dbt_model
-      description: "Voila! This is Supratim's first model"
+      description: "Changing description to see how secoda is impacted"
       columns:
           - name: id
             description: "Adding column description. Checking, 1,2,3..."
