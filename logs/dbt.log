@@ -1368,3 +1368,18 @@ Object does not exist, or operation cannot be performed.
 2021-07-22 15:59:08.957757 (Thread-92): handling status request
 2021-07-22 15:59:08.958040 (Thread-92): Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'fbb6161a-fe1e-4755-b8cc-51d60d104d3e', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f355cc93ac0>]}
 2021-07-22 15:59:08.958582 (Thread-92): sending response (<Response 1209 bytes [200 OK]>) to 10.0.44.140
+2021-07-22 15:59:12.948482 (Thread-93): Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+2021-07-22 15:59:12.948763 (Thread-93): Partial parsing enabled, no changes found, skipping parsing
+2021-07-22 15:59:12.953976 (Thread-93): Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'fbb6161a-fe1e-4755-b8cc-51d60d104d3e', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f355cc6f2b0>]}
+2021-07-22 15:59:13.810709 (Thread-94): handling status request
+2021-07-22 15:59:13.811019 (Thread-94): Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'fbb6161a-fe1e-4755-b8cc-51d60d104d3e', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f355cc911f0>]}
+2021-07-22 15:59:13.811520 (Thread-94): sending response (<Response 1209 bytes [200 OK]>) to 10.0.36.182
+2021-07-22 15:59:13.816052 (Thread-95): handling status request
+2021-07-22 15:59:13.816249 (Thread-95): Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'fbb6161a-fe1e-4755-b8cc-51d60d104d3e', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f355cc6f700>]}
+2021-07-22 15:59:13.816677 (Thread-95): sending response (<Response 1209 bytes [200 OK]>) to 10.0.0.10
+2021-07-22 15:59:13.817578 (Thread-96): handling status request
+2021-07-22 15:59:13.817850 (Thread-96): Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'fbb6161a-fe1e-4755-b8cc-51d60d104d3e', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f355cd55130>]}
+2021-07-22 15:59:13.818259 (Thread-96): sending response (<Response 1209 bytes [200 OK]>) to 10.0.9.194
+2021-07-22 15:59:20.492186 (Thread-97): handling status request
+2021-07-22 15:59:20.492459 (Thread-97): Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': 'fbb6161a-fe1e-4755-b8cc-51d60d104d3e', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f355cc040d0>]}
+2021-07-22 15:59:20.492950 (Thread-97): sending response (<Response 1209 bytes [200 OK]>) to 10.0.28.103
